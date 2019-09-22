@@ -1,5 +1,6 @@
 # test_selenium
-Using Selenium to make tests and analytics with Jest
+Using Selenium to make tests and analytics with Jest.<br/>
+Website used for tests: https://www.decolar.com/passagens-aereas/
 
 Requisits:<br/>
 NodeJS
