@@ -11,4 +11,4 @@ https://jestjs.io/docs/en/getting-started<br/>
 
 To run:<br/>
 npm install<br/>
-npm run dev<br/>
+npm run test<br/>
