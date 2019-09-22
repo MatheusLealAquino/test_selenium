@@ -6,6 +6,7 @@ NodeJS
 
 Docs:
 https://seleniumhq.github.io/selenium/docs/api/javascript/index.html
+https://jestjs.io/docs/en/getting-started
 
 To run:
 npm install
