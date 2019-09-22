@@ -1,13 +1,13 @@
 # test_selenium
 Using Selenium to make tests and analytics with Jest
 
-Requisits:
+Requisits:<br/>
 NodeJS
 
 Docs:
-https://seleniumhq.github.io/selenium/docs/api/javascript/index.html
-https://jestjs.io/docs/en/getting-started
+https://seleniumhq.github.io/selenium/docs/api/javascript/index.html<br/>
+https://jestjs.io/docs/en/getting-started<br/>
 
 To run:
-npm install
-npm run dev
+npm install<br/>
+npm run dev<br/>
