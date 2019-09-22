@@ -39,6 +39,7 @@ test('make search without origin', async () => {
   const driver = await new Builder().forBrowser('chrome').build();
   // Open website
   await driver.get('https://www.decolar.com/passagens-aereas/');
+  await driver.sleep(300);
   // Select all text
   await driver.findElement(By.className('sbox-places-first')).sendKeys(Key.chord(Key.CONTROL, "a"));
   // Clear all text before select all
