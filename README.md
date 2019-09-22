@@ -9,6 +9,6 @@ Docs:<br/>
 https://seleniumhq.github.io/selenium/docs/api/javascript/index.html<br/>
 https://jestjs.io/docs/en/getting-started<br/>
 
-To run:
+To run:<br/>
 npm install<br/>
 npm run dev<br/>
